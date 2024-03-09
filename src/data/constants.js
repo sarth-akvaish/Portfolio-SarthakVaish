@@ -131,7 +131,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/D4D0BAQG4U56OSrEDIA/company-logo_200_200/0/1706469886418/shoppeal_logo?e=2147483647&v=beta&t=ig75TMaoFtB4WwikGqLqASEVPIgFfkuzBIGuRyFIhew",
+    img: "https://raw.githubusercontent.com/sarth-akvaish/Portfolio-SarthakVaish/main/public/shoppeal_logo.jpeg",
     role: "Software Engineer Intern",
     company: "Shoppeal Tech",
     date: "June 2023 - Sep 2023",
@@ -236,7 +236,7 @@ export const projects = [
     description:
       "Designed, developed, and deployed an end-to-end Hotel management web application using the MERN stack with Typescript to empower users to track, book, and add their hotels efficiently. Implemented JWT(JSON Web Token) authentication in web application to enhance security and user authentication.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://raw.githubusercontent.com/sarth-akvaish/Portfolio-SarthakVaish/main/public/Hotel.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Typescript"],
     category: "web app",
     github: "https://github.com/sarth-akvaish/Hotel_Booking_App",
@@ -257,7 +257,7 @@ export const projects = [
     description:
       "Developed a real-time chat application using the MERN stack (MongoDB, Express, React, Node.js).Used Socket.io for real-time communication between the client and server.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://raw.githubusercontent.com/sarth-akvaish/Portfolio-SarthakVaish/main/public/chatapp.png",
     tags: [
       "React Js",
       "MongoDb",
@@ -276,7 +276,7 @@ export const projects = [
     description:
       "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
+      "https://raw.githubusercontent.com/sarth-akvaish/Portfolio-SarthakVaish/main/public/preview-form.png",
     tags: ["ReactJs", "Typescript", "Axios"],
     category: "web app",
     github: "https://github.com/sarth-akvaish/Preview-Form",
@@ -289,7 +289,7 @@ export const projects = [
     description:
       "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
     image:
-      "",
+      "https://raw.githubusercontent.com/sarth-akvaish/Portfolio-SarthakVaish/main/public/web-design.png",
     tags: ["HTML", "CSS", "JavaScript"],
     category: "web app",
     github: "https://github.com/sarth-akvaish/E-commerce-website-frontened",
@@ -302,7 +302,7 @@ export const projects = [
     description:
       " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
     image:
-      "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
+      "https://raw.githubusercontent.com/sarth-akvaish/Portfolio-SarthakVaish/main/public/crud-app.png",
     tags: ["React Js", "Local Storage", "Render", "Node JS", "MongoDB", "Nodemailer"],
     category: "web app",
     github: "https://github.com/sarth-akvaish/task-cruds",
@@ -315,7 +315,7 @@ export const projects = [
     description:
       "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
+      "https://raw.githubusercontent.com/sarth-akvaish/Portfolio-SarthakVaish/main/public/expense-app.png",
     tags: ["ReactJs", "VS Code", "JWT", "Nodejs", "MongoDb"],
     category: "web app",
     github: "https://github.com/sarth-akvaish/Expense_App",
