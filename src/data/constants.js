@@ -12,7 +12,7 @@ export const Bio = {
   github: "https://github.com/sarth-akvaish",
   resume:
     "https://drive.google.com/file/d/1oFeM2iS57crB0NIgsRyvMm-kMx0Te-X1/view?usp=sharing",
-  linkedin: "www.linkedin.com/in/sarthakvaish",
+  linkedin: "https://www.linkedin.com/in/sarthakvaish",
   twitter: "https://twitter.com/unknown_sarthak",
   insta: "https://www.instagram.com/vaish_sa_rthak/",
   facebook: "https://www.facebook.com/",
