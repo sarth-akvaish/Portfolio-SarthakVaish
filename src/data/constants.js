@@ -10,7 +10,7 @@ export const Bio = {
     "Data Engineer focused on pipelines, ETL, and data optimization. and achieve great things.",
   github: "https://github.com/sarth-akvaish",
   resume:
-    "https://drive.google.com/file/d/1hAGcifTi4-OJ1vh3BoTdR0jWSdnWceaL/view?usp=drive_link",
+    "https://drive.google.com/file/d/1Sa5FsNOARvlvr4Q2VbKArY-g6UkZWuW-/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/sarthakvaish",
   twitter: "https://twitter.com/unknown_sarthak",
   insta: "https://www.instagram.com/vaish_sa_rthak/",
